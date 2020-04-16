@@ -24,4 +24,5 @@ yarn dist
 ## Structure
 
 The `build` folder contains the build resources such as the app icon, etc...
+
 The `dist` folder contains the packaged app
